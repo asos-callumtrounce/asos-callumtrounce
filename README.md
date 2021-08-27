@@ -25,7 +25,7 @@ Collaborating on tasks and objectives delivers better results and strengthens th
 
 #### 🏡 Homepage and Content Hub 💅
 The Homepage is like the front of our store. It is the first impression the user has.
-I have contributed to the homepage a lot over the past year or so and available as a point of contact for any queries.
+I have contributed to the homepage a lot over the past year or so (Countdown timer, Search Bar, Birthday/Anniversary Banner) and available as a point of contact for any queries.
 
 ---
 
