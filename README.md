@@ -39,8 +39,8 @@ When I'm not working, I'm usually reading or listening to a book. They've helped
 
 ---
 
-### Contact me
-If you have any questions, or want to collaborate on anything, you can reach me on Microsoft Teams or by email. 
+### Contact Me
+I'm always happy to chat! If you have any questions, want to collaborate on anything, or feel like I can do something better, I'm avaialble on **Microsoft Teams**.
 
 #### Socials:
 - [LinkedIn](https://uk.linkedin.com/in/ctrounce) 🔗
