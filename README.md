@@ -17,9 +17,9 @@ Rapid iteration and feedback loops delivers better quality in the long term, and
 
 #### 🤝 Collaboration and Knowledge Sharing 📖
 Collaborating on tasks and objectives delivers better results and strengthens the team.
-- Help Facilitate [Community of Practice](https://asoscom.atlassian.net/wiki/spaces/APPS/pages/131631397/Community+of+Practice+-+CoP) sessions (and host a few of my own).
-- Buddying new joiners and mentoring others, authored the iOS Buddy Guide
-- Contributor to the iOS Engineering Knowledge Base
+- Help Facilitate `Community of Practice` and `Engineering Meeting` sessions (and host a few of my own).
+- Buddying new joiners and mentoring others, authored the `iOS Buddy Guide`
+- Contributor to the `iOS Engineering Knowledge Base`
 - I occasionaly write [articles](https://medium.com/asos-techblog/empowering-your-developers-to-think-creatively-7fd7f3352d50)
 
 #### 🏡 Homepage and Content Hub 💅
