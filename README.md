@@ -30,7 +30,7 @@ I have contributed to the homepage a lot over the past year or so (Countdown tim
 ---
 
 ### 📚 Reading List 📚
-When I'm not working, I'm usually reading or listening to a book.
+When I'm not working, I'm usually reading or listening to a book. They've helped me become a more introspective, thoughtful and productive person.
 - Measure what matters
 - Thinking fast and slow
 - Atomic Habits
