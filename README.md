@@ -1,14 +1,18 @@
 ## Hi :wave:,
-My name is Callum, an iOS Engineer on the Web and Apps Team. 
+My name is Callum, an **iOS Engineer** on the Web and Apps Team. 
 
 I joined ASOS on July 2019.
 
-### Areas of focus
+### Some Areas of focus
+I'm always looking to expand my knowledge and challenge myself. My areas of focus don't limit me in what I can explore.
 - 3YP Feature Delivery
-- Experimentation: I maintain the `ASOSExperimentation` iOS Project
+- Experimentation: Point of contact for the iOS Platform. I maintain the `ASOSExperimentation` iOS Project and the `URL Injection Framework`. Maintain the [iOS Experimentation Documentation](https://asoscom.atlassian.net/wiki/spaces/APPS/pages/2117176939/Experimentation+iOS+Specific+Documentation)
 - Homepage and Content Hubs
-- Help Facilitate [Community of Practice](https://asoscom.atlassian.net/wiki/spaces/APPS/pages/131631397/Community+of+Practice+-+CoP) sessions.
-- Always trying to encourage a collaborative culture
+- Help Facilitate [Community of Practice](https://asoscom.atlassian.net/wiki/spaces/APPS/pages/131631397/Community+of+Practice+-+CoP) sessions (and host a few of my own).
+- Buddying new joiners and mentoring others, authored the [iOS Buddy Guide](https://asoscom.atlassian.net/wiki/spaces/APPS/pages/3204940222/iOS+Engineer+Onboarding+Buddy+Guide).
+- Contributor to the [iOS Engineering Knowledge Base](https://asoscom.atlassian.net/wiki/spaces/APPS/pages/3202385330/iOS+Engineering+Knowledge+Base+Directory)
+- I occasionaly write [articles](https://medium.com/asos-techblog/empowering-your-developers-to-think-creatively-7fd7f3352d50)
+
 
 
 ### Contact me
