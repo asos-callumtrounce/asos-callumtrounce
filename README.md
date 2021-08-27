@@ -23,6 +23,10 @@ Collaborating on tasks and objectives delivers better results and strengthens th
 - Contributor to the [iOS Engineering Knowledge Base](https://asoscom.atlassian.net/wiki/spaces/APPS/pages/3202385330/iOS+Engineering+Knowledge+Base+Directory)
 - I occasionaly write [articles](https://medium.com/asos-techblog/empowering-your-developers-to-think-creatively-7fd7f3352d50)
 
+#### 🏡 Homepage and Content Hub 💅
+The Homepage is like the front of our store. It is the first impression the user has.
+I have contributed to the homepage a lot over the past year or so and available as a point of contact for any queries.
+
 ---
 
 ### 📚 Reading List 📚
