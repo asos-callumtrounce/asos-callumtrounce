@@ -43,8 +43,7 @@ When I'm not working, I'm usually reading or listening to a book. They've helped
 I'm always happy to chat! If you have any questions, want to collaborate on anything, or feel like I can do something better, I'm avaialble on **Microsoft Teams**.
 
 #### Socials:
-- [LinkedIn](https://uk.linkedin.com/in/ctrounce) 🔗
-- [Medium](https://medium.com/@cmtrounce) 🔗
+
 
 <!---
 asos-callumtrounce/asos-callumtrounce is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
