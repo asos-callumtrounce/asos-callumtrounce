@@ -3,6 +3,8 @@ My name is Callum, an **iOS Engineer** on the Web and Apps Team.
 
 I joined ASOS on July 2019.
 
+I previously worked at a start-up digital agency, where I assisted in scaling the iOS Engineering Team from 5 to 20. It have the experience and a background working in a fast-paced environment in cross-functional teams, operating across multiple tech stacks and communicating with internal/external stakeholders.
+
 ### Some Areas of focus
 I'm always looking to expand my knowledge and challenge myself. My areas of focus don't limit me in what I can explore.
 
@@ -17,6 +19,13 @@ I'm always looking to expand my knowledge and challenge myself. My areas of focu
 - Buddying new joiners and mentoring others, authored the [iOS Buddy Guide](https://asoscom.atlassian.net/wiki/spaces/APPS/pages/3204940222/iOS+Engineer+Onboarding+Buddy+Guide).
 - Contributor to the [iOS Engineering Knowledge Base](https://asoscom.atlassian.net/wiki/spaces/APPS/pages/3202385330/iOS+Engineering+Knowledge+Base+Directory)
 - I occasionaly write [articles](https://medium.com/asos-techblog/empowering-your-developers-to-think-creatively-7fd7f3352d50)
+
+### 📚 Reading List 📚
+- Measure what matters
+- Thinking fast and slow
+- Atomic Habits
+- Never split the difference
+- Predictabily irrational
 
 ### Contact me
 If you have any questions, or want to collaborate on anything, you can reach me on Microsoft Teams or by email. 
