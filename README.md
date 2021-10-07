@@ -1,7 +1,7 @@
 ## Hi :wave:,
 My name is Callum, an **iOS Engineer** on the Web and Apps Team. 
 
-I joined ASOS on July 2019.
+I joined ASOS in July 2019.
 
 I previously worked at a start-up digital agency as an iOS Developer, where I assisted in scaling the iOS Engineering Team. I have the experience and background working in a fast-paced environment in cross-functional teams, operating across multiple tech stacks and communicating with internal/external stakeholders.
 
