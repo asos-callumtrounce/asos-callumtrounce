@@ -1,5 +1,5 @@
 ## Hi :wave:,
-My name is Callum, an **iOS Engineer** on the Web and Apps Team. 
+My name is Callum, a **Senior iOS Engineer** on the Web and Apps Team. 
 
 I joined ASOS in July 2019.
 
@@ -12,8 +12,8 @@ I'm always looking to expand my knowledge and challenge myself. My areas of focu
 
 #### 📈 Experimentation and Measurement 📏
 Rapid iteration and feedback loops delivers better quality in the long term, and gives better insight into how our changes impact user behaviour, allowing us to be more in touch with our customers.  
-- Point of contact for Experimentation on the iOS Platform. 
-- I maintain the Experimentation codebase and iOS-specific documentation
+- Point of contact for Experimentation on Apps. 
+- I maintain the iOS Experimentation codebase and documentation
 
 #### 🤝 Collaboration and Knowledge Sharing 📖
 Collaborating on tasks and objectives delivers better results and strengthens the team.
